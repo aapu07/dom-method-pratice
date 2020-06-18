@@ -1,0 +1,24 @@
+button {
+    background-color:rgb(79, 228, 215);
+    color: black;
+    border-color: black;
+    font: black;
+    padding: 25px 40px;
+    font-size: 16pt;
+    margin: 4px 1.5px;
+    font-style: inherit;
+}
+
+.image {
+    float: right;
+}
+
+A {
+    font-size: 24pt;
+    font-style: oblique;
+}
+
+p {
+    font-size: 24pt;
+    color: rgb(223, 210, 35);
+}
